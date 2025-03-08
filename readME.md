@@ -18,7 +18,7 @@
 npm i mongoose passport-local passport-local-mongoose express-session
 
 
-# error ( port already in use {port_number})
+# solve error ( port already in use {port_number})
 
 1.  1.  find PID of running port => netstat -ano | findstr :3000 (in gitbash)
     2.  check PID i.e number in front of word LISTENING
