@@ -1,3 +1,7 @@
+# video : pinterest.mp4
+# run command: npm start or nodemon
+
+
 / - login and register page
 /register
 /login
